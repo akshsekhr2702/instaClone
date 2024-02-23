@@ -20,9 +20,10 @@ const SuggestedUsers = () => {
 
 </Text>
     </Flex>
-    <SuggestedUser avatar="https://instagram.fblr1-5.fna.fbcdn.net/v/t51.2885-19/273955963_3155643701429447_6067706368413161401_n.jpg?stp=dst-jpg_s320x320&_nc_ht=instagram.fblr1-5.fna.fbcdn.net&_nc_cat=111&_nc_ohc=GSafkhBjM2QAX9Dex30&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfCB37KgIa1HWsWIoubazZEZ5ur4kJn9_yHIL0pShGX5oQ&oe=65D67E52&_nc_sid=8b3546" name="rishikakumari1206" followers={23} />
-    <SuggestedUser />
-    <SuggestedUser />
+    <SuggestedUser avatar="https://www.pexels.com/photo/smiling-woman-carrying-basket-on-back-with-flowers-18262756/" name="rishikakumari1206" followers={23} />
+    <SuggestedUser avatar="" name="rishikakumari1206" followers={23} />
+    <SuggestedUser avatar="" name="rishikakumari1206" followers={23} />
+   
 
     <Box
     fontSize={12}
