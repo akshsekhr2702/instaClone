@@ -1,5 +1,4 @@
 import { Box, Container, Flex } from "@chakra-ui/react";
-import { BiX } from "react-icons/bi";
 import FeedPosts from "../../components/Feedposts/FeedPosts";
 import SuggestedUsers from "../../components/SuggestedUSers/SuggestedUsers";
 
